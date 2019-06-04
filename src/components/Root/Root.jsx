@@ -54,7 +54,7 @@ class Root extends PureComponent {
 					<h1 >Create React App integreted Material</h1>
 					<div>
 						<div>
-							<img />
+							<img  />
 						</div>
 						<div>
 							<img />
